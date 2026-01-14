@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [3.13.2](https://github.com/josdejong/jsonrepair/compare/v3.13.1...v3.13.2) (2026-01-14)
+
+
+### Bug Fixes
+
+* [#150](https://github.com/josdejong/jsonrepair/issues/150) XSS risk when parsing a repaired regex using `eval` ([cc2934b](https://github.com/josdejong/jsonrepair/commit/cc2934bf7b72a244d16cbccf911ac5aa718e9d59))
+
 ### [3.13.1](https://github.com/josdejong/jsonrepair/compare/v3.13.0...v3.13.1) (2025-09-19)
 
 
